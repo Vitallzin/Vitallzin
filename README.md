@@ -1,4 +1,36 @@
-elcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a>
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Cauã Vital
+=========================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=30&color=FFFFFF&pause=500&width=450&lines=🚀Desenvolvedor+Full+Stack;🎨Web+Designer)](https://git.io/typing-svg)
+-------------------------------------
+<img align="left" width="180px" src="https://github.com/user-attachments/assets/2d7a0e07-8308-45c6-b53a-1de0e8894792" />
+<br />
+<p align="left">Sou desenvolvedor frontend especializado em criação de sites, trabalhando de perto com web designers para transformar ideias em experiências digitais incríveis. Tenho grande interesse em explorar novas ideias criativas e inovadoras, sempre em busca de soluções que atendam às necessidades dos usuários e superem as expectativas dos clientes. Com um olhar atento aos detalhes e foco na qualidade, me comprometo em entregar projetos que não apenas funcionam bem, mas também encantam visualmente. Meu compromisso é sempre evoluir e acompanhar as tendências do mercado, garantindo que meu trabalho seja relevante e impactante.</p>
+
+<br/>
+
+* 🖥️ Veja meu portfólio [ManoRick](https://portifolio-manorick.vercel.app/)
+* 🌍  Estou baseado no Brasil - Pernambuco
+* ✉️  Você pode entrar em contato comigo pelo e-mail [henriqueexpedito964@gmail.com](mailto:henriqueexpedito964@gmail.com)
+* 🧠  Estou aprendendo PHP e Banco de Dados
+* 🤝  Estou aberto a colaborar no Projetos com desenvolvimento web
+
+<a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+### Habilidades
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 8px;" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 8px;" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="margin-right: 8px;" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="margin-right: 8px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 8px;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="margin-right: 8px;" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right: 8px;" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" width="36" height="36" alt="NodeJS" style="margin-right: 8px;" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" style="margin-right: 8px;" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 8px;" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VS Code" style="margin-right: 8px;" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="margin-right: 8px;" /></a>
