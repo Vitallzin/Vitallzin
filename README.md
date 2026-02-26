@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 ### Minhas estatísticas do GitHub
 
 
-<a href="http://www.github.com/Vitallzin"><img src="https://github-readme-stats.vercel.app/api?username=Vitallzink&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68" alt="ManoRicck's GitHub stats"/></a>
+<a href="http://www.github.com/Vitallzin"><img src="https://github-readme-stats.vercel.app/api?username=Vitallzink&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68" alt="Vitallzin´s GitHub stats"/></a>
 
 <a href="http://www.github.com/Vitallzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitallzin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=0A4D68" /></a>
 
