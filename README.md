@@ -5,16 +5,17 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 -------------------------------------
 <img align="left" width="180px" src="https://github.com/user-attachments/assets/2d7a0e07-8308-45c6-b53a-1de0e8894792" />
 <br />
-<p align="left">Sou desenvolvedor frontend especializado em criação de sites, trabalhando de perto com web designers para transformar ideias em experiências digitais incríveis. Tenho grande interesse em explorar novas ideias criativas e inovadoras, sempre em busca de soluções que atendam às necessidades dos usuários e superem as expectativas dos clientes. Com um olhar atento aos detalhes e foco na qualidade, me comprometo em entregar projetos que não apenas funcionam bem, mas também encantam visualmente. Meu compromisso é sempre evoluir e acompanhar as tendências do mercado, garantindo que meu trabalho seja relevante e impactante.</p>
+<p align="left">Sou desenvolvedor frontend com foco na criação de interfaces modernas e funcionais, buscando sempre unir design e usabilidade. Gosto de transformar ideias em soluções visuais claras e bem estruturadas, trabalhando com atenção aos detalhes e à experiência do usuário. Estou sempre explorando novas abordagens, tecnologias e tendências do mercado para evoluir como desenvolvedor e entregar projetos consistentes, agradáveis e eficientes. Meu objetivo é criar aplicações que não sejam apenas bonitas, mas que façam sentido e funcionem de verdade no dia a dia.</p>
 
 <br/>
 
 * 🌍  Estou baseado no Brasil - Pernambuco
 * ✉️  Você pode entrar em contato comigo pelo e-mail [vitalcaua8@gmail.com](mailto:vitalcaua8@gmail.com)
-* 🧠  Estou cursando ADS - 3° Período
+* 🎓  Curso técnico em informática para internet - Senai 
+* 🧠  Estou cursando ADS - 3° Período 
 * 🤝  Estou aberto a colaborar no Projetos com desenvolvimento web
 
-<a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Vitallzin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
