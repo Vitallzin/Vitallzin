@@ -43,12 +43,3 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
   <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/cau%C3%A3-vital-44732b343/)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkdien" style="margin-right: 8px;" /></a>
 
 
-
-### Minhas estatísticas do GitHub
-
-
-<a href="http://www.github.com/Vitallzin"><img src="https://github-readme-stats.vercel.app/api?username=Vitallzink&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68" alt="Vitallzin´s GitHub stats"/></a>
-
-<a href="http://www.github.com/Vitallzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitallzin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=0A4D68" /></a>
-
-<a href="https://github.com/Vitallzin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitallzin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
