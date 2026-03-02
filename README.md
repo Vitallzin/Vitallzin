@@ -31,8 +31,6 @@ src="https://img.shields.io/github/followers/Vitallzin?logo=github&style=for-the
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" style="margin-right: 8px;" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 8px;" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VS Code" style="margin-right: 8px;" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/78ba38f8-0fdf-45de-88ea-d577508551e7" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a>
   <a href="https://www.php.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bd3dd1c4-0266-4c93-82aa-9f93b66fc098" width="60" height="60" alt="PHP" title="PHP"/></a>
 
 
