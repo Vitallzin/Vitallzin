@@ -8,7 +8,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <p align="left">Sou desenvolvedor frontend com foco na criação de interfaces modernas e funcionais, buscando sempre unir design e usabilidade. Gosto de transformar ideias em soluções visuais claras e bem estruturadas, trabalhando com atenção aos detalhes e à experiência do usuário. Estou sempre explorando novas abordagens, tecnologias e tendências do mercado para evoluir como desenvolvedor e entregar projetos consistentes, agradáveis e eficientes. Meu objetivo é criar aplicações que não sejam apenas bonitas, mas que façam sentido e funcionem de verdade no dia a dia.</p>
 
 <br/>
-* 💻 [Portfólio](https://portf-lio-teal-gamma.vercel.app/)
+
 * 🌍 Estou baseado no Brasil - Pernambuco
 * ✉️ Você pode entrar em contato comigo pelo e-mail [vitalcaua8@gmail.com](mailto:vitalcaua8@gmail.com)
 * 🎓 Curso técnico em Informática para Internet - Senai
