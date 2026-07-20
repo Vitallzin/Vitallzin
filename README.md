@@ -9,6 +9,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <br/>
 
+* 💻 [Portfólio](https://portf-lio-teal-gamma.vercel.app/)
 * 🌍 Estou baseado no Brasil - Pernambuco
 * ✉️ Você pode entrar em contato comigo pelo e-mail [vitalcaua8@gmail.com](mailto:vitalcaua8@gmail.com)
 * 🎓 Curso técnico em Informática para Internet - Senai
